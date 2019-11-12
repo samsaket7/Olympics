@@ -1,2 +1,2 @@
-# samsaket7.github.io
-Redirect
+# Olympics
+CIS 550
